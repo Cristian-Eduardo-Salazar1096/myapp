@@ -1,6 +1,6 @@
 {
-    "name": "movie_app_ui",
-    "short_name": "movie_app_ui",
+    "name": "online_learning",
+    "short_name": "online_learning",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

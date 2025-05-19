@@ -1,4 +1,4 @@
-package com.example.movie_app_ui
+package com.example.online_learning
 
 import io.flutter.embedding.android.FlutterActivity
 
